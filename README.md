@@ -106,7 +106,14 @@ ecommerce_sales_visualization/
 
 ---
 
-## 👤 Author
-**Vijay Kumar**  
-- Aspiring Data Analyst  
-- Skilled in SQL, Data Visualization, and Business Analysis  
+## 👨‍💻Author - Vijaya Kumar Kanipakam
+
+This project is part of my portfolio, showcasing the Data Visualization skills essential for Data Analyst/Business Analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+### Stay Updated and Join the Community
+
+For more content on Analytics, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/vijay-kumar-2705m/)
+
+Thank you for your support, and I look forward to connecting with you!
