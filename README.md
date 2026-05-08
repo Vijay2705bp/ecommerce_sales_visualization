@@ -32,7 +32,6 @@ This project demonstrates an end-to-end data analytics workflow including:
 ---
 
 ## 📁 Repository Structure
-## 📁 Repository Structure
 ```
 ecommerce_sales_visualization/
 │
